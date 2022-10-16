@@ -1,9 +1,3 @@
-Merhaba Herkese,
-
-Centos sanal makinalardaki 2020 sürümünü 2022 ye yükseltmek için çok kolay bir yol buldum: JetBrains Toolbox
-
-İlgilenen var ise dosyadaki adımları uygulayabilir:
-
 
 ## Jetbrains Toolbox setup on Linux
 
